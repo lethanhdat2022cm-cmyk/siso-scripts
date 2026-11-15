@@ -1,0 +1,9 @@
+[Unit]
+Description=SISO: chay canh bao moi 10 phut
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=10min
+
+[Install]
+WantedBy=timers.target

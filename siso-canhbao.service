@@ -1,0 +1,9 @@
+[Unit]
+Description=SISO: canh bao RAM va o dia
+
+[Service]
+Type=oneshot
+ExecStart=/home/userland/siso-scripts/canh_bao.sh
+
+[Install]
+WantedBy=multi-user.target
