@@ -10,3 +10,4 @@
 - Chốt base: Debian hay Arch.
 - Tháng 6/2027: mua máy, build ISO đầu tiên (nhắc lịch 15/06/2027).
 - Thử lưu đăng nhập
+- Thử lần 2
